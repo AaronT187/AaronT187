@@ -13,7 +13,7 @@ I recently went through the Git & GitHub Crash Course and completed the initial 
 ## **What I’m Still Confused About**
 
 Even though I’ve learned a lot, there are a few areas I want to explore further:
-- How to resolve merge conflicts when multiple changes happen on the same file.  
+- How to resolve merge conflicts when multiple changes happen on the same file, but from different devices.  
   - I am unable to replicate the setup process I did on my PC, on my MacBook.
   - Editing the same file and on both devices results in a several errors.
 
