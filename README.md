@@ -1,6 +1,6 @@
 # README
 
-# Hello! I'm [Your Name]
+# Hello! I'm Aaron Tate
 
 Welcome to my GitHub profile! Here’s a little about me:
 
