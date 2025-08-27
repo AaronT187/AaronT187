@@ -18,8 +18,9 @@ Even though I’ve learned a lot, there are a few areas I want to explore furthe
   - Editing the same file and on both devices results in a several errors.
 
 ## **Next Steps**  
+I will definitely be creating some private repositories to practice more.
 
-I’ve finished the introductory setup steps and watched the Git & GitHub Crash Course. 
+However, I have finished the introductory setup steps and watched the Git & GitHub Crash Course. 
 I’m excited to start applying these skills in real projects and experimenting with different Markdown styles in my profile README.  
 
 
