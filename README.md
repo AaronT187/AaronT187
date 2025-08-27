@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! Here’s a little about me:
 
-## About Me
 I am passionate about learning new technologies and improving my skills in programming, cloud computing, and software development. I enjoy tackling challenging problems and building projects that make a difference.
 
 ## What I'm Learning
