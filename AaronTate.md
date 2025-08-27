@@ -1,6 +1,6 @@
 # Hello Everyone, I'm Aaron!  
 
-## **What I Learned** 
+## **What I Learned about GitHub So Far...** 
 
 I recently went through the Git & GitHub Crash Course and completed the initial setup steps for my GitHub profile and repository. Here’s a summary of what I learned:  
 - How to create a new repository on GitHub.  
